@@ -1,1 +1,4 @@
 Contenido del fichero A
+git init (crear un nuevo repositorio de git)
+git status (ver el estado del directorio de trabajo)
+git add xxx (añade un cambio del directorio de trabajo en el area de preparacion) 
